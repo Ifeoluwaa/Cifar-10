@@ -1,0 +1,4 @@
+cifar/
+Data/
+model_cifar.pt
+src/dump.py
